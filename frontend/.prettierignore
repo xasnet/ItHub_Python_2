@@ -1,0 +1,13 @@
+*.svg
+*.png
+*.json
+*.md
+.editorconfig
+.eslintignore
+.gitignore
+.prettierignore
+.stylelintignore
+.npmrc
+
+/build
+node_modules
